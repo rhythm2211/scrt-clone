@@ -1,0 +1,99 @@
+
+
+.about-head{
+    margin-left: 38%;
+    color: white;
+    margin-top: 120px;
+    font-size: 40px;
+}
+
+.about-sub-text{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 24%;
+}
+
+.block{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card{
+    height: 360px;
+    width: 220px;
+    background-color:#151C24ff;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.num{
+    text-align: center;
+    margin-top: 35px;
+    border: 1px;
+    border-radius: 50%;
+    height: 35px;
+    font-size: 23px;
+    background-color: rgb(32, 33, 54);
+    margin-left: 40%;
+    width: 35px;
+}
+
+.write-img{
+    margin-left: 24%;
+    height: 130px;
+    width: 130px;
+    margin-top: 20px;
+}
+
+.card-text{
+    color: white;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.card-sub-text{
+    text-align: center;
+}
+
+.about-encrypt{
+    font-size: 40px;
+    margin-top: 100px;
+    color: white;
+    margin-left: 32%;
+    margin-bottom: 40px;
+}
+
+a {
+    color:rgb(242, 6, 128); 
+    text-decoration: none; 
+    margin-left: 42%;
+    margin-top: 0%;
+  }
+  
+  a:hover {
+    color: red; 
+    text-decoration: none; 
+  }
+  
+  a:visited {
+    color: rgb(242, 6, 128);
+    text-decoration: none; 
+    outline: none;
+  }
+  
+  a:focus {
+    outline: none; 
+  }
+
+
+  .head-sub-text{
+    font-size: 20px;
+    margin-bottom: 50px;
+  }
+
+  .encrypt-img{
+    width: 100%;
+  }

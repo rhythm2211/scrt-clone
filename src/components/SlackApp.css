@@ -1,0 +1,77 @@
+.slack-head-text{
+    color: white;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 60px;
+}
+
+.text-container {
+    position: relative;
+    margin-top: 100px;
+  }
+  
+  .small-text {
+    position: absolute;
+    top: -20px; /* Adjust the top value to control the vertical position */
+    left:680px;
+     /* Customize the background color */
+    padding: 5px; /* Add padding for better visibility */
+    z-index: 2;
+    font-weight: 900; 
+    color: rgb(242, 6, 128);
+    font-size: 20px;/* Set a higher z-index to bring the small text above the main text */
+  }
+
+
+.slack-app-head{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.slack-sub-text{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 23%;
+    margin-top: 30px;
+}
+
+.slack-img{
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 0 2px 4px rgb(242, 6, 128);
+}
+
+.slackimg-sub-text{
+    margin-top: 80px;
+    margin-left: 8%;
+}
+
+.img-subtext{
+    font-size: 20px;
+}
+
+.custom-btn{
+    margin-left: 20px;
+    border-style: none;
+    background-color: rgb(242, 6, 128);
+    color: white;
+    border-radius: 6px;
+    padding: 10px 10px;
+}
+.custom-btn:hover{
+   background-color: rgb(242, 6, 128,0.6);
+}
+.custom-btn-2{
+    margin-left: 20px;
+    border-style:none ;
+    padding: 10px 10px;
+    border-radius: 6px;
+    background-color:  #1B242Eff;
+    color: rgb(242, 6, 128);
+}
+
+.custom-btn-2:hover{
+    background-color: rgb(242, 6, 128,0.4);
+    color: white;
+}

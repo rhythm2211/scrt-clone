@@ -1,0 +1,189 @@
+.container{
+    width: 100%;
+}
+.hero-image{
+    height: 120px;
+    width: 120px;
+    margin-right:10%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+img{
+    margin-right:35% ;
+}
+body{
+    background-color: #1B242Eff;
+}
+
+.head-text{
+   color:rgb(242, 6, 128);
+   font-size: 65px;
+   margin-right: 25%;
+   font-weight: 900;
+   margin-top: 20px;
+   font-family: 'Poppins', sans-serif;
+   letter-spacing: 1px;
+}
+
+h2{
+    color:white;
+    font-size: 30px;
+    font-family: 'Poppins',sans-serif;
+    margin-right: 25%;
+}
+
+.heading
+{
+    width: 100%;
+    margin-left: 28%;
+}
+
+.input-box{
+    width: 700px;
+    height: 230px;
+    margin-left: 28%;
+    margin-top: 60px;
+    border: 1px black solid;
+    background-color: #151C24ff;
+}
+.comment{
+    margin-top: 10px;
+    margin-left: 28px;
+    color:rgb(242, 6, 128);
+    background-color: #151C24ff;
+    border: none;
+}
+.upload{
+    color:rgb(242, 6, 128);
+    background-color: #151C24ff;
+    border: none;
+    margin-left: 10px;
+}
+
+.comment-box
+{
+    background-color: #151C24ff;
+    display: flex;
+    margin-bottom: 10px;
+    width: 90%;
+    margin-left: 35px;
+    margin-top: 2%;
+    border-color: rgb(242, 6, 128);
+    
+}
+
+.submit-btn{
+    width: 180px;
+    height: 38px;
+    margin-left: 70%;
+    margin-top: 15px;
+    font-family: 'poppins';
+    background-color:rgb(242, 6, 128);
+    color: white;
+    border-radius:4px ;
+    padding: auto;
+    border-style: none;
+}
+
+.file-box{
+    width: 60%;
+    height: 60%;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 160px;
+    margin-top: 60px;
+    border: 1px white dashed;
+}
+
+
+.upload-btn{
+    width: 180px;
+    height: 38px;
+    margin-left: 57%;
+    margin-top: 15px;
+    font-family: 'poppins';
+    background-color:rgb(242, 6, 128);
+    color: white;
+    border-radius:4px ;
+    padding: auto;
+    border-style: none;
+}
+
+.file-upload-label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(242, 6, 128);
+    margin-top: 35px;
+    margin-left: 270px;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .file-upload-label:hover {
+    background-color: rgb(179, 21, 103);
+  }
+  
+  .file-upload-label:active {
+    background-color: rgb(242, 6, 128);
+  }
+  
+  .file-upload-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+  }
+  .sub-text
+  {
+    font-size: 14px;
+    color: white;
+    text-align:center ;
+    margin-left: 30px;
+  }
+  .pink-underline {
+    border-bottom: 5px solid rgb(242, 6, 128);
+  }
+
+  .upload-box{
+    width: 650px;
+    height: 130px;
+    margin-left: 4%;
+    margin-top: 30px;
+    border: 1px rgb(84, 84, 84) dashed;
+   
+  }
+  p{
+    color: white;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .box-text{
+    display: flex;
+    width: 100%;
+    margin-left: 53%;
+    margin-top: 2px;
+  }
+
+  .file-submit-btn{
+    margin-top: 90px;
+    padding: 5px 5px;
+    width: 130px;
+    margin-left: 270px;
+    background-color: rgb(242, 6, 128);
+    border: none;
+    color: white;
+    border-radius: 5px;
+  }
+
+  .secret-link{
+    margin-right: 20%;
+    margin-top: 0px;
+  }
