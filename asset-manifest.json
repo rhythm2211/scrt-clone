@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scrt-clone/static/css/main.24ee3151.css",
+    "main.js": "/scrt-clone/static/js/main.ae3028a1.js",
+    "static/media/slackapp.png": "/scrt-clone/static/media/slackapp.1528aac85a7854972c31.png",
+    "index.html": "/scrt-clone/index.html",
+    "main.24ee3151.css.map": "/scrt-clone/static/css/main.24ee3151.css.map",
+    "main.ae3028a1.js.map": "/scrt-clone/static/js/main.ae3028a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ee3151.css",
+    "static/js/main.ae3028a1.js"
+  ]
+}
